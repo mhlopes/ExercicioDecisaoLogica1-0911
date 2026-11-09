@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="2/2.csproj" />
+  <Project Path="3/3.csproj" Id="1c4f25a2-b111-4dd5-8632-ba82c0f81300" />
+  <Project Path="5/5.csproj" Id="9d020264-c5a2-4c48-9e59-914855c18cad" />
+  <Project Path="6/6.csproj" Id="68f2b3b0-d006-408d-9fa9-047ddcd43c5a" />
+  <Project Path="7/7.csproj" Id="13833abc-1888-4136-af7e-7f45b66aef9c" />
+  <Project Path="8/8.csproj" Id="bc0a82cc-1eba-497c-a702-40e5de7c6f79" />
+  <Project Path="9/9.csproj" Id="fe2720eb-0730-4aff-b3f3-002e785bd83f" />
+  <Project Path="ConsoleApp1/4.csproj" Id="2fa7c279-a63d-4230-aa12-899aa4073850" />
+  <Project Path="ExercicioDecisao1/1.csproj" />
+</Solution>
