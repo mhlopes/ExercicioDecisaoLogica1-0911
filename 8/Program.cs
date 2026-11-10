@@ -2,6 +2,11 @@
 
 Console.WriteLine("Digite seu salário:");
 salario = float.Parse(Console.ReadLine());
+if(salario <= 0)
+{
+    Console.WriteLine("Salário inválido. Por favor, insira um valor positivo.");
+    return;
+}
 
 float aumento = 0;
 

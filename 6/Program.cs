@@ -2,7 +2,7 @@
 
 Console.WriteLine("Digite o ano de nascimento:");
 ano = uint.Parse(Console.ReadLine());
-    if(ano > 2026)
+    if(ano > 2026 || ano < 0)
     {
         Console.WriteLine("Ano de nascimento inválido.");
         return;
